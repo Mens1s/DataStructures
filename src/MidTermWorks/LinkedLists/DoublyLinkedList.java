@@ -1,4 +1,4 @@
-package LinkedLists;
+package MidTermWorks.Union.LinkedLists;
 
 import java.util.Iterator;
 import java.util.Spliterator;

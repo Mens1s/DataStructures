@@ -1,5 +1,5 @@
 <ul style="list-style-type: disc;">
-    <li>Static Array<ol style="list-style-type: circle;">
+    <li>Static MidTermWorks.Union.Array<ol style="list-style-type: circle;">
             <li>A static array is a fixed length container containing n elements indexable from the range [0, n-1].</li>
             <li>Indexable means that each slot/index in the array can be referenced with a number.</li>
             <li>When we use static arrays?</li>

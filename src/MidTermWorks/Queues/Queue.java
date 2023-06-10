@@ -1,4 +1,4 @@
-package Queues;
+package MidTermWorks.Union.Queues;
 
 import java.util.Iterator;
 

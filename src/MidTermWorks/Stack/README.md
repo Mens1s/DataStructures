@@ -1,9 +1,9 @@
-<h1>What is a Stack?</h1>
+<h1>What is a MidTermWorks.Union.Stack?</h1>
 <p>A stack is a one-ended linear data structure which models a real world stack by having
 two primary operations, namely push and pop.</p>
 <h3 style="color : darkred">Last in first out! </h3>
 
-<h3>When and where is a Stack used? </h3>
+<h3>When and where is a MidTermWorks.Union.Stack used? </h3>
 <li>Used by undo mechanisms in text editors.</li>
 <li>Used in compiler syntax checking for matching brackets and braces.</li>
 <li>Can be used to model a pile of books or plates.</li>
@@ -33,7 +33,7 @@ So the basic idea is to start from the root or any arbitrary node and mark the n
     class Graph {
     private int V; // No. of vertices
 
-    // Array  of lists for
+    // MidTermWorks.Union.Array  of lists for
     // Adjacency List Representation
     private LinkedList<Integer> adj[];
  
