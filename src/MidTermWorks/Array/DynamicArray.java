@@ -1,6 +1,5 @@
-package Array;
+package MidTermWorks.Union.Array;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Spliterator;
 import java.util.function.Consumer;

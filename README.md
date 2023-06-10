@@ -1,5 +1,12 @@
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style="font-size:19px;line-height:107%;">Data Structure</span></strong></p>
 <ul style="list-style-type: disc;">
+    <li>What did I do in that spring?<ol style="list-style-type: circle;">
+            <li>MidTerm : 93</li>
+            <li>Final : Hope >50</li>
+            <li>Homework average : 86</li>
+            <li>Final average : 74 - BA guess..</li>
+        </ol>
+    </li>
     <li>What is Data Structure?<ol style="list-style-type: circle;">
             <li>A data structure (DS) is a way of organizing data so that it can be used effectively.</li>
         </ol>

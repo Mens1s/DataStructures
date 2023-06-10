@@ -1,4 +1,4 @@
-package PriorityQueue;
+package MidTermWorks.Union.PriorityQueue;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Union;
+package MidTermWorks.Union;
 
 public class UnionFind {
     private int size;
